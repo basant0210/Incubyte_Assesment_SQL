@@ -19,3 +19,4 @@ PROJECT TASK:
 13.) Where product name= laptop and total sales more than 144000
 14.) Max Transaction amount & Minimum transaction amount
 15.) Count Number of Customer
+16.) Cumulatiive Sum of transactions
