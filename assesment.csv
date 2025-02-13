@@ -1,0 +1,21 @@
+Transaction_Id,Customer_Id,Transaction_Date,Transaction_amount,Payment_Method,Quantity,Discount_Percent,city,Store_Type,Customer_age,Customer_Gender,Loyality_Points,Product_Name,Region,Returned,Feedback_Score,Shipping_Cost,Delivery_time_days,Is_Promotional
+1,16795,01-01-2022 00:00,1910.91,Cash,1,35,Kolkata,In-store,32,Male,2043,T-Shirt,North,No,4,24.31,5,No
+2,1860,01-01-2022 00:01,58590.27,Cash,1,9.51,Lucknow,Online,40,Other,8490,Sofa,West,No,2,1502.96,7,Yes
+3,39158,01-01-2022 00:02,280.21,Debit card,1,16.55,Lucknow,Online,52,Other,6328,Notebook,North,Yes,2,22.3,2,Yes
+4,,,86485.63,UPI,1,9.53,Jaipur,In-store,62,Other,1139,Laptop,North,No,4,461.38,7,No
+5,12284,01-01-2022 00:04,385.89,Debit card,22,0.98,Kolkata,Online,31,Female,66,Apple,North,No,1,14.44,1,Yes
+6,7265,01-01-2022 00:05,450.4,Debit card,2,43.81,Kolkata,Online,58,Female,1798,T-Shirt,North,No,5,36.76,3,Yes
+7,17850,01-01-2022 00:06,58286.23,Cash,1,8.59,Jaipur,Online,58,Male,4754,Laptop,North,Yes,5,251.42,4,Yes
+8,38194,01-01-2022 00:07,158.1,UPI,10,47.78,Pune,Online,73,Female,4987,Notebook,East,No,1,19.81,4,Yes
+9,22962,01-01-2022 00:08,40999.26,UPI,1,13.73,Pune,Online,50,Male,6466,Laptop,East,No,3,112.96,5,No
+10,48191,01-01-2022 00:09,74686.61,UPI,1,38.29,Ahmedabad,In-store,58,Other,8475,Laptop,West,Yes,1,150.29,6,No
+11,4131,01-01-2022 00:10,460.24,Debit card,3,33.44,Lucknow,In-store,39,Male,8644,Notebook,West,No,2,34.79,2,Yes
+12,17023,01-01-2022 00:11,308.49,Debit card,3,3.83,Delhi,In-store,57,Male,9172,Notebook,South,Yes,1,10.59,4,No
+13,42090,01-01-2022 00:12,1987.32,Credit Card,3,5.84,Pune,Online,68,Male,6008,T-Shirt,North,Yes,5,77.29,4,No
+14,2685,01-01-2022 00:13,309.63,Cash,4,15.17,Pune,In-store,51,Other,9523,T-Shirt,West,Yes,3,16.69,5,Yes
+15,1769,01-01-2022 00:14,312.22,Credit Card,24,37.27,Hyderbad,In-store,57,Female,1094,Apple,South,No,3,10.42,3,No
+16,3433,01-01-2022 00:15,769.35,Debit card,2,46.26,Lucknow,Online,48,Female,7204,T-shirt,East,Yes,4,33.11,4,Yes
+17,6311,01-01-2022 00:16,218.51,Debit card,41,1.98,Mumbai,In-store,39,Female,1640,Apple,East,No,5,14.94,2,Yes
+18,38819,01-01-2022 00:17,156.99,Cash,4,21.39,Chennai,Online,72,Other,9542,Notebook,North,Yes,2,39.17,4,Yes
+19,40188,01-01-2022 00:18,52955.78,Cash,1,12.03,Banglore,Online,64,Other,1086,Sofa,West,Yes,2,2057.3,11,No
+20,18568,01-01-2022 00:19,1536.78,Debit card,3,15.59,Lucknow,Online,29,Other,6187,T-Shirt,North,Yes,4,20.75,3,No
